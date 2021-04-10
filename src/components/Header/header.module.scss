@@ -1,1 +1,26 @@
 // TODO
+.headerContainer {
+  height: 10rem;
+  max-width: 1120px;
+  height: 10rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+
+  display: flex;
+  align-items: center;
+
+  img {
+    cursor: pointer;
+  }
+}
+
+.headerContainerPost {
+  height: 6.5rem;
+  display: block;
+
+  img {
+    cursor: pointer;
+    margin-left: 20%;
+    margin-top: 2.265rem;
+  }
+}
